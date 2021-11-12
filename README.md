@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant and Kivy/KivyMD Mobile Developer.
+
+- [My profile freelance malt](https://www.malt.fr/profile/elydev)
+
+[![KOUA ELYSEE](https://github-readme-stats.vercel.app/api?username=elydev01&show_icons=true&theme=dracula)](https://github.com/elydev01/github-readme-stats)
+
+
 <!--
 **elydev01/elydev01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
