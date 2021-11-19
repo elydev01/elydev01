@@ -1,10 +1,12 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01">
-
 ### Hi there 👋
 
 Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant and Kivy/KivyMD Mobile Developer.
 
 - [My profile freelance malt](https://www.malt.fr/profile/elydev)
+
+<br />
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01"> <img src="https://komarev.com/ghpvc/?username=elydev01&label=Profile%20views&color=0e75b6&style=flat" alt="elydev01" />
 
 <br />
 
