@@ -1,3 +1,7 @@
+![KOUA ELYSEE KEVIN](puzzle.jpg)
+
+## Info
+
 ### Hi there 👋
 
 Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant and Kivy/KivyMD Mobile Developer.
@@ -6,7 +10,9 @@ Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant 
 
 <br />
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01"> <img src="https://komarev.com/ghpvc/?username=elydev01&label=Profile%20views&color=0e75b6&style=flat" alt="elydev01" />
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01)
+![Profile Views](https://komarev.com/ghpvc/?username=elydev01&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Last Updated](https://img.shields.io/github/last-commit/elydev01/elydev01/main?label=Last%20updated&style=flat)
 
 <br />
 
