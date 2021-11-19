@@ -1,6 +1,6 @@
 ![KOUA ELYSEE KEVIN](puzzle.jpg)
 
-## Info
+---
 
 ### Hi there 👋
 
@@ -14,11 +14,7 @@ Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant 
 ![Profile Views](https://komarev.com/ghpvc/?username=elydev01&label=Profile%20views&color=0e75b6&style=flat)
 ![Profile Last Updated](https://img.shields.io/github/last-commit/elydev01/elydev01/main?label=Last%20updated&style=flat)
 
-<br />
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elydev01&langs_count=10)](https://github.com/elydev01/github-readme-stats)
-
-<br />
 
 [![KOUA ELYSEE](https://github-readme-stats.vercel.app/api?username=elydev01&show_icons=true&theme=dracula)](https://github.com/elydev01/github-readme-stats)
 
