@@ -4,6 +4,12 @@ Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant 
 
 - [My profile freelance malt](https://www.malt.fr/profile/elydev)
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elydev01&langs_count=10)](https://github.com/elydev01/github-readme-stats)
+
+<br />
+
 [![KOUA ELYSEE](https://github-readme-stats.vercel.app/api?username=elydev01&show_icons=true&theme=dracula)](https://github.com/elydev01/github-readme-stats)
 
 
