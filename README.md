@@ -18,26 +18,65 @@ Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant 
 
 ## ⚡ Tools
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+<!-- CODE VERSION -->
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket) <!-- DEV TOOLS -->
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) <!-- OPERATING SYSTEM -->
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) <!-- OTHERS TOOLS -->
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch)
+![Graphql](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) <!-- OTHERS SOFTWAR -->
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Stackoverflow](https://aleen42.github.io/badges/src/stackoverflow.svg?style=for-the-badge)
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white) <!-- DEV LANGUAGE -->
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) <!-- FRAMEWORKS -->
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) <!-- DATABASE -->
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+<!--
+![Kivy]()
+![KivyMD]()
+![DjangoRestFramework]()
+-->
 
 <br />
 
 ## ⚡ Stats
 
+[![STATES](https://github-readme-streak-stats.herokuapp.com/?user=elydev01&theme=dracula)](https://github.com/elydev01/github-readme-stats)
 [![KOUA ELYSEE](https://github-readme-stats.vercel.app/api?username=elydev01&show_icons=true&theme=dracula)](https://github.com/elydev01/github-readme-stats)
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elydev01&langs_count=10&theme=dracula)](https://github.com/elydev01/github-readme-stats)
+-->
 
 <br />
+
+<a href="https://github.com/elydev01/french-def" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elydev01&repo=french-def&theme=dracula"">
+</a> &nbsp;&nbsp;
+
+<a href="https://github.com/elydev01/kvtemplate7" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elydev01&repo=kvtemplate7&theme=dracula"">
+</a> &nbsp;&nbsp;
+
+---
 
 <a href="https://github.com/elydev01/screen-02" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elydev01&repo=screen-02&theme=dracula"">
@@ -83,5 +122,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
