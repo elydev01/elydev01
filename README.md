@@ -4,7 +4,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-Hello, my name is KOUA Elysee, I am a Trainer, Python/Django Backend Consultant and Kivy/KivyMD Mobile Developer.
+Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant and React Native mobile developer.
 
 - [My profile freelance malt](https://www.malt.fr/profile/elydev)
 
