@@ -6,7 +6,8 @@
 
 Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant and React Native mobile developer.
 
-- [My profile freelance malt](https://www.malt.fr/profile/elydev)
+- [Codingame Profile](https://www.codingame.com/profile/22eb2c9be8f4df30ce3e730439abedde1074114)
+- [Malt Freelance Profile](https://www.malt.fr/profile/elydev)
 
 <br />
 
