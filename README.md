@@ -24,6 +24,7 @@ Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket) <!-- DEV TOOLS -->
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Code Style](https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman) <!-- OPERATING SYSTEM -->
