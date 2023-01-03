@@ -11,7 +11,7 @@ Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant 
 
 <br />
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01)
+<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=elydev01&label=Profile%20views&color=0e75b6&style=flat)
 ![Profile Last Updated](https://img.shields.io/github/last-commit/elydev01/elydev01/main?label=Last%20updated&style=flat)
 
@@ -50,7 +50,6 @@ Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) <!-- DATABASE -->
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 <!--
 ![Kivy]()
