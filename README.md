@@ -11,7 +11,6 @@ Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant 
 
 <br />
 
-<!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=elydev01&label=Profile%20views&color=0e75b6&style=flat)
 ![Profile Last Updated](https://img.shields.io/github/last-commit/elydev01/elydev01/main?label=Last%20updated&style=flat)
 
@@ -61,11 +60,12 @@ Hello, my name is KOUA Elysee, I am a trainer, Python/Django backend consultant 
 
 ## ⚡ Stats
 
-[![STATES](https://github-readme-streak-stats.herokuapp.com/?user=elydev01&theme=dracula)](https://github.com/elydev01/github-readme-stats)
+<!-- [![STATES](https://github-readme-streak-stats.herokuapp.com/?user=elydev01&theme=dracula)](https://github.com/elydev01/github-readme-stats) -->
 [![KOUA ELYSEE](https://github-readme-stats.vercel.app/api?username=elydev01&show_icons=true&theme=dracula)](https://github.com/elydev01/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elydev01&langs_count=10&theme=dracula)](https://github.com/elydev01/github-readme-stats)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=elydev01.elydev01)
 -->
 
 <br />
